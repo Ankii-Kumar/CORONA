@@ -108,7 +108,7 @@ header nav::before { content: ''; width: 158px; aspect-ratio: 1/1; background-co
 .doctor-testimonials span {font-size: 30px;}
 
 
-.wrap-3 { background: url("/img/bg_3.webp") no-repeat center / cover; padding: 85px 0 55px; text-align: center; }
+.wrap-3 { background: url("../img/bg_3.webp") no-repeat center / cover; padding: 85px 0 55px; text-align: center; }
 .wrap-3 input { width: 100%; background: none; border: 1px solid #fff; height: 87px; border-radius: 44px; padding: 2rem; color: #fff; font-size: 18px;  }
 .wrap-3 input::placeholder {color: #fff; }
 .wrap-3 button {width: 402px; height: 82px; background-color: #05254d; color: #fff; border-radius: 41px; margin-top: 32px; border: none; }
@@ -204,5 +204,6 @@ header nav::before { content: ''; width: 158px; aspect-ratio: 1/1; background-co
         .wrap-2 .controls2 button { width: 70px; }
     /* !Additional code end */
 }
+
 
 
