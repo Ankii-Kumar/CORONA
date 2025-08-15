@@ -76,7 +76,7 @@ header nav::before { content: ''; width: 158px; aspect-ratio: 1/1; background-co
 .wrap-2 [class^="container"] {margin: 50px auto;}
 .symptoms a {display: block; width: 274px; line-height: 75px; background-color: #05254d; color: #fff; text-align: center; }
 
-.carousel {text-align: center; background: url("/img/bg_2.webp") no-repeat left center / cover; padding: 4rem 1rem;  border-radius: 11rem;}
+.carousel {text-align: center; background: url("../img/bg_2.webp") no-repeat left center / cover; padding: 4rem 1rem;  border-radius: 11rem;}
 
 /* ! Additional code start */
 .carousel .container { padding: 0 5rem; }
@@ -204,4 +204,5 @@ header nav::before { content: ''; width: 158px; aspect-ratio: 1/1; background-co
         .wrap-2 .controls2 button { width: 70px; }
     /* !Additional code end */
 }
+
 
